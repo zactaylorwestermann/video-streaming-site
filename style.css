@@ -30,6 +30,7 @@ body {
 .logo {
     font-size: 30px;
     color: pink;
+    
 }
 
 .menu-container {
@@ -43,6 +44,7 @@ body {
 
 .menu-list-item {
     margin: 30px;
+    cursor: pointer;
 }
 
 .menu-list-item.active {
